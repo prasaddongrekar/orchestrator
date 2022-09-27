@@ -6,8 +6,8 @@ jdk 11
 IDE
 
 # todo
-delete target folder
-setup instructions
+1. delete target folder
+2. setup instructions
 
 # VM options
 -Dserver.port={portNumber}
